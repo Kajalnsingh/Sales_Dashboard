@@ -1,4 +1,4 @@
-# Sales_Dashboard
+# Walmart_Sales_Dashboard
 Creative Sales Dashboard in Power BI
 Sales Dashboard | Power BI & Power Query
 This repository features an interactive Sales Dashboard built using Power BI and Power Query. The dashboard is designed to analyze and visualize key sales metrics, enabling data-driven decision-making.
